@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-escaping-the-prison/static/css/main.799e85e5.css",
+    "main.js": "/react-escaping-the-prison/static/js/main.3bd97210.js",
+    "static/js/453.15e74354.chunk.js": "/react-escaping-the-prison/static/js/453.15e74354.chunk.js",
+    "index.html": "/react-escaping-the-prison/index.html",
+    "main.799e85e5.css.map": "/react-escaping-the-prison/static/css/main.799e85e5.css.map",
+    "main.3bd97210.js.map": "/react-escaping-the-prison/static/js/main.3bd97210.js.map",
+    "453.15e74354.chunk.js.map": "/react-escaping-the-prison/static/js/453.15e74354.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.3bd97210.js"
+  ]
+}
